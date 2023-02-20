@@ -36,3 +36,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+1. Home Page :
+    1. Show recently listed NFTs
+    2. If you own the NFT, you can updte the listing
+    3. If not, you can buy the listing
+
+2. Sell page :
+    1. You can list your NFTs on the marketplace
